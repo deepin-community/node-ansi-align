@@ -1,0 +1,1 @@
+tape -R spec test/*.js
